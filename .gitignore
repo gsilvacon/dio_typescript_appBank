@@ -1,0 +1,4 @@
+# packages y directories
+node_modules
+package-lock.json
+yarn.lock
